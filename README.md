@@ -18,10 +18,18 @@ Quotes with API
 
 
 
-https://github.com/tvishabhatt/DB_Miner_Pr7/assets/122964289/a27e441b-3d2c-43d2-b926-2e1c31a54fdf
+https://github.com/tvishabhatt/DB_Miner_Pr7/assets/122964289/100f3da3-5728-4c1f-82f2-c43af2a4166c
+
+
+
+
 
 Quotes with JSON
 
 
-https://github.com/tvishabhatt/DB_Miner_Pr7/assets/122964289/e1119795-34db-41a9-8de6-52369029ab84
+https://github.com/tvishabhatt/DB_Miner_Pr7/assets/122964289/24fb1d1f-f624-4ec7-972d-9a2561bd8f0b
+
+
+
+
 
