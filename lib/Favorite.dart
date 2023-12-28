@@ -25,7 +25,8 @@ class FavoriteState extends State<Favorite>
      ),
 body: ListoffavQoutesFromJson.isEmpty?
        Center(child: Text('No Favrioutes available')):
-    ListView.builder (
+    ListView.builder(
+      shrinkWrap: true,
     itemCount: ListoffavQoutesFromJson.length,
     itemBuilder: (context, index) {
       return Padding(
@@ -33,7 +34,11 @@ body: ListoffavQoutesFromJson.isEmpty?
         child: ListTile(
           title: Text("${ListoffavQoutesFromJson[index].quotes}",style: TextStyle(fontSize: 16,fontWeight: FontWeight.w700),),
 
-          trailing: Text("${ListoffavQoutesFromJson[index].author}",style: TextStyle(fontSize: 16,fontWeight: FontWeight.w700),),
+          subtitle:Row(mainAxisAlignment: MainAxisAlignment.end,
+            children: [
+              Text(" - ${ListoffavQoutesFromJson[index].author}",style: TextStyle(fontSize: 16,fontWeight: FontWeight.w700),)
+            ],
+          ),
         ),
       );
     }));

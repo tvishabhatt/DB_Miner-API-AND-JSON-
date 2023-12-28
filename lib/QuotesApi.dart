@@ -109,7 +109,7 @@ Future<void> fetchDataFromAPI() async {
         title: Text("Quotes From API",style: TextStyle(fontSize: 18,fontWeight: FontWeight.w700),),
         actions: [
           IconButton(onPressed: () async{
-            await Navigator.of(context).push(MaterialPageRoute(builder: (context) => Favorite(),));
+            await Navigator.of(context).push(MaterialPageRoute(builder: (context) => Favorite()));
 
           }, icon: Icon(Icons.favorite)),
 
