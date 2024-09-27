@@ -9,12 +9,6 @@ A Flutter project that fetches quotes from an API when the internet is available
 💖 Favorites: Mark and store your favorite quotes for quick access.
 🖼️ Wallpaper Setting: Set your favorite quotes as your phone wallpaper directly from the app.
 
-📲 Demo Videos
-
-Quotes with API: Watch Demo
-
-Quotes with JSON (Offline): Watch Demo
-
 🚀 Screenshots
 
 Splash Screen
@@ -28,6 +22,19 @@ API Quotes (Online)
 Favorite Quotes & Set as Wallpaper
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/c5658241-7606-4575-af45-a19473a24b80" alt="Favorites" width="250"/> <img src="https://github.com/user-attachments/assets/52987cf5-6f22-4ffb-9667-3debd6af61bf" alt="Categories" width="250"/>  <img src="https://github.com/user-attachments/assets/a030696d-be33-499f-99cc-950b5df72fa9" alt="Set Wallpaper" width="250"/> </div>
+
+
+📲 Demo Videos
+
+<div align="center">
+    <video src="https://github.com/tvishabhatt/DB_Miner_Pr7/assets/122964289/100f3da3-5728-4c1f-82f2-c43af2a4166c" width="300" controls></video>
+    <p>Quotes with API</p>
+</div>
+
+<div align="center">
+    <video src="https://github.com/user-attachments/assets/03738f97-c838-4d10-a559-ff4e4b4cee4e" width="300" controls></video>
+    <p>Quotes with JSON</p>
+</div>
 
 JSON Quotes (Offline)
 
