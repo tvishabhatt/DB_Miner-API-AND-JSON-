@@ -24,6 +24,10 @@ Favorite Quotes & Set as Wallpaper
 <div align="center"> <img src="https://github.com/user-attachments/assets/c5658241-7606-4575-af45-a19473a24b80" alt="Favorites" width="250"/> <img src="https://github.com/user-attachments/assets/52987cf5-6f22-4ffb-9667-3debd6af61bf" alt="Categories" width="250"/>  <img src="https://github.com/user-attachments/assets/a030696d-be33-499f-99cc-950b5df72fa9" alt="Set Wallpaper" width="250"/> </div>
 
 
+JSON Quotes (Offline)
+
+<div align="center"> <img src="https://github.com/user-attachments/assets/f8c48ecc-952d-4cee-b96e-b7257a05b11d" alt="JSON Quotes 1" width="250"/> <img src="https://github.com/user-attachments/assets/3edf2dda-cae6-4640-812c-4ad7a658d63c" alt="JSON Quotes 2" width="250"/> </div>
+
 📲 Demo Videos
 
 <div align="center">
@@ -36,6 +40,4 @@ Favorite Quotes & Set as Wallpaper
     <p>Quotes with JSON</p>
 </div>
 
-JSON Quotes (Offline)
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/f8c48ecc-952d-4cee-b96e-b7257a05b11d" alt="JSON Quotes 1" width="250"/> <img src="https://github.com/user-attachments/assets/3edf2dda-cae6-4640-812c-4ad7a658d63c" alt="JSON Quotes 2" width="250"/> </div>
