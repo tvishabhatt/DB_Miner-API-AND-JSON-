@@ -27,7 +27,7 @@ API Quotes (Online)
 
 Favorite Quotes & Set as Wallpaper
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/c5658241-7606-4575-af45-a19473a24b80" alt="Favorites" width="250"/> <img src="https://github.com/user-attachments/assets/52987cf5-6f22-4ffb-9667-3debd6af61bf" alt="Categories" width="250"/> </div><div align="center"> <img src="https://github.com/user-attachments/assets/a030696d-be33-499f-99cc-950b5df72fa9" alt="Set Wallpaper" width="250"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/c5658241-7606-4575-af45-a19473a24b80" alt="Favorites" width="250"/> <img src="https://github.com/user-attachments/assets/52987cf5-6f22-4ffb-9667-3debd6af61bf" alt="Categories" width="250"/>  <img src="https://github.com/user-attachments/assets/a030696d-be33-499f-99cc-950b5df72fa9" alt="Set Wallpaper" width="250"/> </div>
 
 JSON Quotes (Offline)
 
